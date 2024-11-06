@@ -1,2 +1,1 @@
-# PDSI
-Repositório do trabalho e relatório do seminário da matéria de Processamento Digital de Sinais e Imagens, do Prof. Aldo Dias Salazar.
+# Scout-Vision : análise de desempenho estatístico de jogadores através do Processamento de Imagens e Vídeos
